@@ -1,2 +1,2 @@
 # TimeSeriesVisualization
-Visualization Techniques for Time Series Analysis
+Visualization Techniques for Time Series Analysis Using Pandas
